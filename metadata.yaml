@@ -1,0 +1,43 @@
+_repo: Der-Totentanz_23775
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Holbein, Hans
+    aliases:
+    - Holbein, Hans, der Jüngere
+    - Holbein, Hans, the Younger
+    birthdate: 1497
+    deathdate: 1543
+    gutenberg_agent_id: '24893'
+    url: http://www.gutenberg.org/2009/agents/24893
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger
+    - http://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ganz, Hans
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '26023'
+    url: http://www.gutenberg.org/2009/agents/26023
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23775'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood-engraving -- Printing'
+- !lcsh 'Holbein, Hans, 1497-1543'
+- !lcsh 'Dance of death in art'
+- !lcsh 'Dance of death'
+- !lcc 'NE'
+title: Der Totentanz
+url: http://www.gutenberg.org/ebooks/23775
